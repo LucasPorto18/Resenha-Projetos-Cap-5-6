@@ -9,4 +9,4 @@ Outro destaque é a explicação sobre os princípios SOLID e outras diretrizes 
 A conclusão do capítulo reforça a importância de aplicar esses conceitos e princípios para garantir a qualidade do projeto de software. Além de abordar técnicas essenciais, o texto também traz uma visão prática de como melhorar a organização e a manutenibilidade do código.
 
 
-## Capítulo 6 - Padroões de Projeto
+## Capítulo 6 - Padrões de Projeto
