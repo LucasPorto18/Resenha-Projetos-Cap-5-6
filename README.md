@@ -10,3 +10,9 @@ A conclusão do capítulo reforça a importância de aplicar esses conceitos e p
 
 
 ## Capítulo 6 - Padrões de Projeto
+
+No sexto capítulo do livro Engenharia de Software Moderna, são abordados os Padrões de Projeto, que oferecem soluções eficientes para desafios recorrentes no desenvolvimento de software. Esses padrões são classificados em três categorias principais: criacionais, estruturais e comportamentais.
+
+Os padrões criacionais, como Factory e Singleton, visam otimizar a criação de objetos, garantindo maior controle e eficiência na geração de instâncias. Já os padrões estruturais, exemplificados por Adapter e Decorator, são aplicados para organizar e interligar classes e objetos de maneira flexível. Por fim, os padrões comportamentais, como Strategy e Observer, têm o propósito de aprimorar a comunicação entre os componentes do sistema, tornando a interação mais dinâmica e eficiente.
+
+O capítulo destaca que o uso adequado desses padrões não apenas evita soluções improvisadas, mas também contribui para um código mais organizado, de fácil manutenção e reutilização. Essa abordagem é especialmente benéfica em projetos complexos e de grande porte, onde a robustez e a adaptabilidade do software são essenciais.
